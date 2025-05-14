@@ -14,8 +14,18 @@ Dataset
 - Top 5 Products by Revenue
 - Segment-Wise Profit
 - Products with Negative Profit
-
-Folder Structure
+  
+Analysis Overview
+1. Profitability by Segment and Category
+2. Monthly Sales Trend
+3. Top-Selling Products
+4. Customer Segments by Sales
+   
+Insights & Findings
+Consumer segment in the West region yields the highest profit.
+Technology products have better profit margins.
+Monthly sales spike during November and December (holiday season).
+A small number of products drive majority of revenue (Pareto principle
 
 Tools Used
 - PostgreSQL / MySQL
