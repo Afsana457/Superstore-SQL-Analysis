@@ -15,7 +15,7 @@ Dataset
 - Segment-Wise Profit
 - Products with Negative Profit
 
-📂 Folder Structure
+Folder Structure
 
 Tools Used
 - PostgreSQL / MySQL
